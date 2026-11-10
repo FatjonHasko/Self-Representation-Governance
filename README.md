@@ -18,7 +18,7 @@ It addresses a fundamental question:
 
 The architecture integrates the principles of ancient direct democracy with modern digital identity verification, open-source blockchain technology and the institutional infrastructure required to operate a sovereign country.
 
-Its central principle is **self-representation: citizens exercise legislative sovereignty directly rather than delegating their political authority to elected representatives.**
+Its central principle is **Self-Representation: citizens exercise legislative sovereignty directly rather than delegating their political authority to elected representatives.**
 
 Unlike approaches that address only direct voting, digital democracy or individual government institutions, this architecture brings the legislative, technological and institutional components together into one comprehensive governance model.
 
@@ -27,7 +27,7 @@ Unlike approaches that address only direct voting, digital democracy or individu
 The system is built around several fundamental principles:
 
 - **Direct citizen sovereignty:** Citizens are the ultimate legislative authority.
-- **Self-representation:** Citizens directly decide legislation rather than electing representatives to make legislative decisions on their behalf.
+- **Self-Representation:** Citizens directly decide legislation rather than electing representatives to make legislative decisions on their behalf.
 - **Non-political expertise:** Qualified professionals prepare legislation but have no political power or legislative authority.
 - **Institutional independence:** Essential state institutions continue functioning without elected political leadership.
 - **Digital participation:** Government digital identity infrastructure enables citizen identification and participation.
@@ -129,33 +129,15 @@ These mechanisms are intended to maintain institutional accountability and preve
 
 ## Originality and Prior-Art Contribution
 
-Based on the prior-art research conducted for this work, **Fatjon Hasko is the first identified author to present a fully developed, country-specific, end-to-end governance architecture showing how an entire sovereign state can function without elected political leaders.**
+**Fatjon Hasko is the first identified author to develop and document a fully integrated, end-to-end architecture for a sovereign state governed without elected political leaders.**
 
-The distinctive contribution is the integration of:
+The architecture combines direct citizen legislation, ancient democratic principles, digital identity, blockchain technology and the institutions required to operate an entire country.
 
-- Ancient direct-democracy principles.
-- Direct citizen legislative authority.
-- Government digital identity verification.
-- Open-source blockchain voting infrastructure.
-- Professional law-drafting without political power.
-- Independent state institutions.
-- Public administration and essential state functions.
-- Citizen accountability mechanisms.
-- A constitutional transition framework.
+**Although originally designed for the Republic of Albania, the architecture is designed to be globally adaptable and potentially adoptable by other sovereign countries**, subject to the constitutional, legal, institutional, technological and security adaptations required by each country.
 
-These elements are integrated into one comprehensive governance architecture designed specifically for a sovereign country.
+Based on the prior-art research conducted, no exact earlier equivalent of this integrated, country-specific, end-to-end governance architecture has been identified. Its originality lies not in inventing every individual component, but in bringing them together into one coherent system for governing an entire sovereign state without elected political leaders.
 
-Hasko does not claim to have invented ancient direct democracy, blockchain technology or the individual components used in the design. His contribution is their integration into a complete, country-specific model for governing an entire sovereign state without elected political leaders.
-
-This distinction concerns the originality of the integrated architecture itself: based on the prior-art research conducted, Fatjon Hasko is the first identified author to bring these principles, technologies and institutional mechanisms together into a fully developed, end-to-end governance model for an entire sovereign state. The originality lies not in inventing each individual component, but in integrating them into one coherent, country-specific system.
-
-## Universal Adaptability
-
-Although originally designed for Albania, the architecture establishes a framework that may be adapted to other sovereign countries.
-
-Its underlying principles can be adjusted to different constitutional systems, legal institutions, digital identity infrastructures, public administrations and national security requirements.
-
-Each country would require its own legal, institutional, democratic and technical adaptation.
+It establishes a model of **Self-Representation**, in which citizens directly exercise their legislative sovereignty, returning the power of making laws to the people themselves rather than delegating it to political representatives—a modern application of the ancient principle of direct democracy, enabled by contemporary technology.
 
 # 8. Implementation and Legal Status
 
@@ -187,9 +169,11 @@ Author and Architect of the Self-Representation Governance System.
 
 **Original publication date:** November 6, 2026.
 
-**Official website:** https://www.eagleunit.com/
+**Official Website:** https://www.eagleunit.com/
 
 **GitHub Profile:** https://github.com/FatjonHasko
+
+**Project Repository:** https://github.com/FatjonHasko/Self-Representation-Governance
 
 © 2026 Fatjon Hasko (Zëri). All Rights Reserved.
 

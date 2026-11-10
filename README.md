@@ -2,7 +2,7 @@
 
 ## A Pure Direct Democracy Architecture Through Self-Representation
 
-### The Architecture of a Leaderless, Decentralized Crypto-Democracy for the Republic of Albania
+### The Architecture of a Leaderless State Through Pure Direct Democracy for the Republic of Albania
 
 **Founder, Author and Architect:** Fatjon Hasko (Zëri)  
 **Original Publication Date:** November 6, 2026  

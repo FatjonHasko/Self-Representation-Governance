@@ -1,257 +1,228 @@
 # THE SELF-REPRESENTATION GOVERNANCE SYSTEM
 
-## A Pure Direct Democracy Architecture Through Self-Representation
-
-### The Architecture of a Leaderless State Through Pure Direct Democracy for the Republic of Albania
+## The Architecture of a Leaderless State Through Pure Direct Democracy for the Republic of Albania
 
 **Founder, Author and Architect:** Fatjon Hasko (Zëri)  
-**Original Publication Date:** November 6, 2026  
-**Original Country-Specific Design:** Republic of Albania  
-**Governance Model:** Pure Direct Democracy Through Self-Representation
+**Original Design Date:** November 6, 2026  
+**Country of Original Design:** Republic of Albania  
+**Official Website:** https://www.eagleunit.com/
 
 ---
 
-# 1. Overview
+## 1. Overview
 
-The **Self-Representation Governance System** is a fully developed, end-to-end constitutional and governance architecture designed by Fatjon Hasko (Zëri) for the Republic of Albania.
+The **Self-Representation Governance System** is a comprehensive, end-to-end governance architecture designed by Fatjon Hasko for the Republic of Albania.
 
-It addresses a fundamental question:
+It presents a model of **Pure Direct Democracy through Self-Representation**, in which citizens retain legislative sovereignty and directly exercise their authority over the laws that govern their country, without delegating that authority to elected political representatives.
+
+Its central principle is **Self-Representation: citizens represent themselves by initiating, participating in the development and shaping of legislation, and directly voting to approve or reject the laws that govern their country. Final legislative authority rests with the citizens.**
+
+The architecture addresses a fundamental question:
 
 **How can an entire sovereign country govern itself without elected political leaders, while maintaining the institutions, administration, legislation, security and public services necessary for a functioning state?**
 
-The architecture proposes a model of **Pure Direct Democracy**, in which citizens directly exercise legislative sovereignty rather than delegating their lawmaking authority to elected political representatives.
+The design combines principles of ancient direct democracy with modern digital technology and a comprehensive institutional framework intended to support the operation of a sovereign state.
 
-Its central principle is **Self-Representation: citizens represent themselves and directly participate in making the laws that govern their country.**
+It is designed to replace political representation in legislative decision-making with direct citizen participation, while preserving the professional institutions and administrative structures necessary for national governance.
 
-The system integrates the principles of ancient direct democracy with modern digital identity verification, open-source blockchain technology and the institutional infrastructure required to operate a sovereign country.
+## 2. Core Principles
 
-Unlike approaches that address only direct voting, digital democracy or individual government institutions, this architecture brings the legislative, technological and institutional components together into one comprehensive governance model.
+The system is based on the following principles:
 
-## Governance Model: Pure Direct Democracy Through Self-Representation
+- **Direct Citizen Sovereignty:** Citizens are the ultimate holders of legislative authority.
+- **Self-Representation:** Citizens exercise their own political and legislative authority rather than delegating it to elected political representatives.
+- **Pure Direct Democracy:** Citizens directly participate in initiating, developing, shaping, deliberating on and voting on legislation and major national decisions.
+- **Citizen Lawmaking:** Citizens can initiate legislative proposals, contribute to developing legislation, submit amendments and participate in public deliberation.
+- **Direct Citizen Voting:** Citizens directly vote to approve or reject legislation. No professional body or institution can replace or override their final decision.
+- **No Elected Political Leadership:** The architecture is designed to operate without elected political leaders exercising governing authority.
+- **Professional Expertise Without Political Power:** Qualified professionals provide legal and technical drafting, analysis and review, but do not possess political authority or final legislative decision-making power.
+- **Institutional Continuity:** Essential state institutions and public services continue to operate within a defined constitutional and administrative framework.
+- **Transparency and Accountability:** Public decisions, institutional responsibilities and accountability mechanisms are structured to be transparent and reviewable.
+- **Technological Security:** Digital identity and proposed secure voting infrastructure support citizen participation and verification.
 
-The Self-Representation Governance System is designed around the principle that legislative power belongs directly to citizens.
+## 3. The End-to-End Governance Model
 
-Citizens can initiate legislative proposals, examine proposed laws and vote directly to approve or reject legislation.
+The architecture establishes a complete governance process connecting citizens, legislation, professional expertise, public institutions and national administration.
 
-Qualified legal and technical professionals prepare, review, clarify and simplify proposed laws, but have no political power or final legislative authority.
+Its central mechanism is the direct exercise of sovereignty by citizens.
 
-The system separates professional expertise from political power and places legislative decision-making directly in the hands of citizens.
+The proposed legislative process includes:
 
-**Its defining principle is that citizens represent themselves, rather than delegating their legislative sovereignty to elected political representatives.**
+1. Citizens initiate legislative proposals.
+2. Citizens participate in developing, discussing and shaping proposed laws.
+3. Citizens can submit suggestions, amendments and alternative proposals.
+4. Vatra 280 provides professional legal and technical drafting, examination and review.
+5. The resulting legislative text is presented to citizens with relevant supporting information.
+6. Citizens directly vote to approve or reject the proposed legislation.
+7. The outcome of the vote determines whether the legislation is approved.
+8. Approved laws proceed through the defined constitutional process for implementation.
+9. Relevant public institutions implement and administer approved laws.
+10. Institutional actions remain subject to transparency, oversight and accountability mechanisms.
 
-# 2. Core Principles
+**The distinction is fundamental: citizens initiate, participate in making and shaping legislation, and make the final legislative decisions. Professionals provide expertise, not political leadership or legislative authority.**
 
-The system is built around the following fundamental principles:
+## 4. Vatra 280 — Professional Legislative Preparation
 
-- **Pure Direct Democracy:** Citizens directly exercise legislative sovereignty.
-- **Self-Representation:** Citizens represent themselves in legislative decision-making.
-- **Direct Citizen Sovereignty:** Citizens are the ultimate legislative authority.
-- **Non-political Expertise:** Qualified professionals prepare legislation but have no political power or legislative authority.
-- **Institutional Independence:** Essential state institutions continue functioning without elected political leadership.
-- **Digital Participation:** Government digital identity infrastructure enables citizen identification and participation.
-- **Transparency:** Blockchain technology provides proposed infrastructure for recording and verifying legislative voting results.
-- **Accountability:** Citizens retain mechanisms to initiate proposals and hold designated institutional participants accountable.
-- **Continuity of the State:** Public administration, justice, security and public services remain essential functions of government.
+**Vatra 280** is a proposed professional body consisting of 280 members:
 
-# 3. How the System Works — The End-to-End Model
+- 140 qualified legal professionals.
+- 140 qualified technical experts.
 
-The architecture connects citizens, legislative preparation, direct voting and the execution of laws into one integrated process.
+The members are selected through a random selection process from certified professional databases, with a proposed two-year selection cycle.
 
-**1. Citizen Identification**
+Their responsibilities include:
 
-Citizens access the proposed digital participation system through Albania's existing e-Albania government portal.
+- Preparing and drafting proposed legislation based on citizen initiatives and legislative processes.
+- Reviewing legal consistency and constitutional compatibility.
+- Examining technical feasibility.
+- Identifying potential implementation problems.
+- Clarifying legislative language.
+- Evaluating proposed amendments.
+- Providing professional analysis and explanations to citizens before voting.
 
-**2. Eligibility Verification**
+**Vatra 280 does not govern the country.**
 
-The system verifies the identity and eligibility of citizens entitled to participate in legislative voting.
+Its members have no political power, no independent legislative authority, no authority to make final legislative decisions and no right to override the citizens' votes.
 
-**3. Legislative Proposals**
+Vatra 280 does not replace citizens in making laws. Its purpose is to provide the legal and technical expertise necessary to support the citizen legislative process.
 
-Citizens can initiate legislative proposals and participate in the consideration of proposed laws.
+**Citizens initiate, develop, shape and decide on legislation. Vatra 280 provides professional expertise to prepare and examine it.**
 
-**4. Professional Law-Drafting**
+## 5. Institutional Architecture
 
-Vatra 280 prepares, reviews, clarifies and simplifies legislation. Its members provide legal and technical expertise without exercising political authority.
+The system is designed to preserve the institutions and essential functions required for a functioning sovereign state.
 
-**5. Direct Citizen Voting**
+Its institutional architecture addresses areas including:
 
-Citizens directly vote to approve or reject legislation.
-
-**6. Blockchain Recording**
-
-The proposed open-source blockchain infrastructure records and supports verification of voting results.
-
-**7. Institutional Implementation**
-
-The relevant public institutions execute and administer laws approved through the constitutional process.
-
-**8. Citizen Accountability**
-
-Citizens retain mechanisms for legislative initiatives and institutional accountability.
-
-This creates an end-to-end model connecting citizen identification to legislative decision-making and the functioning of state institutions.
-
-# 4. Vatra 280 — The Law-Drafting Institution
-
-Vatra 280 consists of 280 qualified professionals:
-
-- 140 legal professionals.
-- 140 technical experts.
-
-They are randomly selected from certified professional databases every two years.
-
-Their responsibilities include drafting, reviewing, clarifying and simplifying proposed legislation so citizens can understand the laws on which they vote.
-
-**Vatra 280 has no political power and no legislative authority.**
-
-Its members do not govern the country, exercise political leadership or make final legislative decisions.
-
-They prepare the legal and technical material. Citizens retain the final authority to approve or reject legislation.
-
-This separates professional expertise from political power and legislative sovereignty.
-
-# 5. The Institutional Architecture — Operating a Country Without Elected Political Leaders
-
-The system is not simply a digital voting platform. It addresses how the essential functions of an entire sovereign state can continue operating without elected political leaders.
-
-Its institutional architecture encompasses:
-
-- Judiciary and administration of justice.
-- Public administration and civil service.
-- Police and internal security.
+- Constitutional administration.
+- Judiciary and legal institutions.
+- Public administration and civil services.
+- Police and public security.
 - National security and defense.
 - Public finance and taxation.
 - Education.
-- Property and legal rights.
-- Diplomacy and international relations.
+- Property and land administration.
+- Foreign affairs and diplomacy.
 - Cybersecurity and digital infrastructure.
-- Public services and essential state operations.
-- Institutional accountability and continuity.
+- Public services and national administration.
 
-Citizens exercise legislative sovereignty, professional institutions perform their defined functions, and public administration implements the laws.
+These institutions operate within defined legal responsibilities and constitutional limits.
 
-The objective is to eliminate the need for elected political leaders as intermediaries in legislative authority without eliminating the institutions necessary for a functioning state.
+Their existence does not require elected political leaders to exercise legislative sovereignty.
 
-# 6. Citizen Sovereignty and Accountability
+The architecture separates professional administration and institutional execution from the citizens' direct legislative authority.
 
-The architecture establishes mechanisms for direct citizen participation and accountability.
+## 6. Citizen Sovereignty and Accountability
 
-Its specified mechanisms include:
+Citizens are the direct holders and exercisers of legislative sovereignty.
 
-- **20,000 citizen signatures:** Enable citizens to submit legislative proposals.
-- **5,000 citizen flags:** Trigger the specified process for reviewing and potentially removing an expert.
+Their participation extends throughout the legislative process. They are not merely voters at the end of a process; they are active participants in the creation, development and final approval of the laws governing their country.
 
-These mechanisms are intended to maintain institutional accountability and prevent professional institutions from becoming independent political power centers.
+The proposed mechanisms include:
 
-# 7. Originality and Prior-Art Contribution
+- Initiating legislative proposals.
+- Developing and shaping proposed laws.
+- Submitting suggestions and amendments.
+- Participating in public deliberation.
+- Directly voting to approve or reject legislation.
+- Monitoring institutional performance.
+- Raising concerns about institutional conduct.
+- Initiating accountability and review procedures.
 
-**Fatjon Hasko is the first identified author to develop and document a fully integrated, end-to-end architecture for a sovereign state governed without elected political leaders.**
+The design includes proposed citizen participation thresholds:
 
-The architecture combines:
+- **20,000 signatures** to initiate a legislative proposal.
+- **5,000 flags** to trigger a professional review process concerning institutional accountability.
 
-- Pure direct-democracy principles.
-- Direct citizen legislative authority.
-- Self-Representation.
-- Government digital identity verification.
-- Open-source blockchain voting infrastructure.
-- Professional law-drafting without political power.
-- Independent state institutions.
-- Public administration and essential state functions.
-- Citizen accountability mechanisms.
-- A constitutional transition framework.
+These mechanisms are intended to provide citizens with structured ways to initiate legislative action, influence the development of laws, request institutional review and hold public institutions accountable.
 
-Based on the prior-art research conducted, no exact earlier equivalent of this integrated, country-specific, end-to-end governance architecture has been identified.
+**Citizens retain the final legislative authority. No professional body, administrative institution or appointed expert group can take that authority away from them.**
 
-Hasko does not claim to have invented ancient direct democracy, blockchain technology or every individual component used in the design.
+## 7. Originality and Prior-Art Contribution
 
-His distinctive contribution is bringing these principles, technologies and institutional mechanisms together into one coherent, fully developed governance architecture for an entire sovereign state.
+Fatjon Hasko's contribution is the design and documentation of an integrated, end-to-end governance architecture for a sovereign country based on Pure Direct Democracy through Self-Representation.
 
-It establishes a model of **Self-Representation**, in which citizens directly exercise their legislative sovereignty, returning the power of making laws to the people themselves rather than delegating it to political representatives.
+The architecture brings together:
 
-It represents a modern application of the ancient principle of direct democracy, enabled by contemporary technology and designed to address the institutional requirements of an entire country.
+- Direct citizen legislative sovereignty.
+- Self-representation without elected political lawmakers.
+- Citizen participation in initiating, developing, shaping and voting on legislation.
+- Professional legislative drafting without political authority.
+- A structured national institutional framework.
+- Digital identity and proposed secure voting infrastructure.
+- Citizen participation and accountability mechanisms.
+- The administrative and operational functions required by a sovereign state.
 
-# 8. Universal Adaptability and Global Applicability
+The design combines principles associated with ancient direct democracy with modern technological and institutional structures.
 
-Although originally designed for the Republic of Albania, the architecture is designed to be globally adaptable and potentially adoptable by other sovereign countries.
+Based on the prior-art research conducted, no exact earlier equivalent of this particular integrated, end-to-end architecture has been identified.
 
-Its underlying principles can be adapted to different:
+**Fatjon Hasko (Zëri) is the first identified author and architect of this particular integrated, end-to-end governance architecture for a sovereign country, based on the prior-art research conducted.**
 
-- Constitutional systems.
-- Legal frameworks.
-- National digital identity infrastructures.
-- Public administrations.
-- Institutional structures.
-- Security and defense requirements.
-- Technological environments.
+He developed and documented the complete architecture, integrating direct citizen sovereignty, Self-Representation, citizen legislative participation, professional law drafting without political power, direct voting and the institutional structures required for a functioning state.
 
-Each country would require its own constitutional, legal, institutional, democratic and technical adaptation.
+Based on the prior-art research conducted, no earlier equivalent has been identified. Fatjon Hasko (Zëri) is the first identified author of an algorithmic constitutional governance framework specifically designed for a sovereign country (the Republic of Albania), potentially making him the first in the world to develop and document such a framework.
 
-The objective is to establish a governance architecture that can serve as a framework for countries seeking to organize their legislative authority around direct citizen participation and Self-Representation.
+This originality statement concerns the integrated architecture as a whole. It does not claim that every individual component, technology or democratic principle was independently invented by the author.
 
-# 9. Implementation and Legal Status
+## 8. Universal Adaptability and Global Applicability
 
-The architecture represents a fully developed and documented end-to-end governance design.
+Although originally designed for the Republic of Albania, the Self-Representation Governance System is intended to be adaptable to other sovereign countries.
 
-Its Albania-specific version describes a proposed constitutional transition involving public approval through a popular referendum.
+Its underlying principles can potentially be adapted to different national environments, subject to each country's:
 
-The design is not being represented as an already adopted Constitution of Albania or as an operational government.
+- Constitutional and legal framework.
+- Institutional structure.
+- Population and administrative requirements.
+- Digital infrastructure.
+- Security and identity-verification standards.
+- National circumstances and public requirements.
 
-Implementation would require appropriate constitutional and legal approval, institutional preparation, public participation, technical development, independent security testing and a structured transition.
+The architecture is intended as a potential framework for countries seeking to establish direct citizen legislative sovereignty without elected political leadership.
 
-**The architecture is complete as a documented design; its adoption and implementation are separate processes.**
+Its application in another country would require appropriate legal, constitutional, institutional, technical and security adaptation.
 
-# 10. Published White Papers
+## 9. Implementation and Legal Status
 
-This repository contains four original documents by Fatjon Hasko:
+The Self-Representation Governance System is a documented and developed governance architecture.
 
-**1. Original White Paper Concept**
+It describes how the proposed model is intended to operate from citizen identification and participation through legislation, institutional administration and public accountability.
 
-[Read the Original Concept](White%20paper%20Shkrimi%20original%20-Fatjon-Hasko.pdf)
+The design is not an adopted Constitution of the Republic of Albania, nor is it an operational government.
 
-**2. English White Paper**
+Its implementation would require the appropriate constitutional and legal processes, institutional preparation, technical development, security testing and public authorization.
 
-[Read the English Version](White%20paper%20English%20version-%20Fatjon-Hasko%20.pdf)
+The distinction is between a developed architectural design and its future adoption and implementation.
 
-**3. Albanian White Paper**
+The system is presented as a complete governance design, not as a claim that the Republic of Albania has already implemented it.
 
-[Read the Albanian Version](White%20paper%20Albanian-version-Fatjon-Hasko.pdf)
+## 10. Published White Papers
 
-**4. Universal Governance Framework**
+The following documents present the project in its original, translated and universal forms:
 
-[Read the Universal Version](Universal-Self-Representation-Governance-System-Fatjon-Hasko.pdf.pdf)
+1. [Read the Original Concept](White%20paper%20Shkrimi%20original%20-Fatjon-Hasko.pdf)
+2. [Read the English Version](White%20paper%20English%20version-%20Fatjon-Hasko%20.pdf)
+3. [Read the Albanian Version](White%20paper%20Albanian-version-Fatjon-Hasko.pdf)
+4. [Read the Universal Version](Universal-Self-Representation-Governance-System-Fatjon-Hasko.pdf.pdf)
 
-Together, these documents present the original concept, the country-specific architecture for Albania and the broader framework for potential global adaptation.
-
-# 11. Author and Copyright
+## 11. Author and Copyright
 
 **Fatjon Hasko (Zëri)**
 
-Founder, Author and Architect of the Self-Representation Governance System.
+Founder, First Identified Architect and Author of the Self-Representation Governance System.
 
-**Original Publication Date:** November 6, 2026.
+Official Website: https://www.eagleunit.com/  
+GitHub Profile: https://github.com/FatjonHasko
 
-**Official Website:**  
-https://www.eagleunit.com/
+Project Repository: https://github.com/FatjonHasko/Self-Representation-Governance
 
-**GitHub Profile:**  
-https://github.com/FatjonHasko
+Public project references:
 
-**Project Repository:**  
-https://github.com/FatjonHasko/Self-Representation-Governance
+- #VetëPërfaqësim
+- #Vetperfaqesim
+- #NjeShqiperiMeShqiptar
+- #DemokracieDrejtperdrejt
 
-**Public Hashtags:**
+**Copyright © 2026 Fatjon Hasko. All Rights Reserved.**
 
-#VetëPërfaqësim  
-#Vetperfaqesim  
-#NjeShqiperiMeShqiptar  
-#DemokracieDrejtperdrejt
-
----
-
-© 2026 Fatjon Hasko (Zëri). All Rights Reserved.
-
-The original written content, documentation, diagrams and other original expressive materials are protected by applicable copyright law.
-
-No license is granted for reproduction, modification, redistribution or commercial exploitation without prior written permission, except as permitted by applicable law.
-
-The public availability of this repository does not, by itself, grant permission to reuse its contents.
+No license granting permission to reproduce, distribute, modify or commercially use this work is granted through this publication. All rights are reserved, subject to applicable law.

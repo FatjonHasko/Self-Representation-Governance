@@ -149,18 +149,21 @@ The design is not being represented as an already adopted Constitution of Albani
 
 Implementation would require appropriate constitutional and legal approval, institutional preparation, public participation, technical development, independent security testing and a structured transition.
 
-**The architecture is complete as a documented design; its adoption and implementation are separate processes.**
+**The architecture is complete as a documented design; its adoption and implementation are separate processes.
 
 # 9. Published White Papers
 
-This repository contains four documents by Fatjon Hasko:
+This repository contains four original documents by Fatjon Hasko:
 
-1. **Original White Paper Concept** — The original conceptual foundation.
-2. **English White Paper** — The English-language presentation of the Albania-specific architecture.
-3. **Albanian White Paper** — The Albanian-language presentation.
-4. **Universal Governance Framework** — The broader framework for potential adaptation to other countries.
+1. **Original White Paper Concept** — [Read the Original Concept](White%20paper%20Shkrimi%20original%20-Fatjon-Hasko.pdf)
 
-Together, these documents present the original concept, the country-specific architecture and its broader applicability.
+2. **English White Paper** — [Read the English Version](White%20paper%20English%20version-%20Fatjon-Hasko%20.pdf)
+
+3. **Albanian White Paper** — [Read the Albanian Version](White%20paper%20Albanian-version-Fatjon-Hasko.pdf)
+
+4. **Universal Governance Framework** — [Read the Universal Version](Universal-Self-Representation-Governance-System-Fatjon-Hasko.pdf.pdf)
+
+Together, these documents present the original concept, the country-specific architecture for Albania and its potential global adaptability.
 
 # 10. Author and Copyright
 

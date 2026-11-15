@@ -37,13 +37,15 @@ The proposed constitutional transition begins with **50,000 verified citizen sig
 
 Its ultimate objective is to establish a sovereign state in which **citizens hold legislative power directly, institutions serve the public, and technology remains a tool of the people rather than an instrument of political control.**
 
-# 2. Diplomatic Relations — Delegates Without Political Power
+# 2. Diplomatic Relations and National Security
 
 The Self-Representation Governance System maintains Albania’s diplomatic relations through a **Technical Diplomatic Corps** of qualified delegates selected by sortition. Delegates represent Albania in international discussions and institutions, including the **United Nations, NATO, and European Union**, but possess **no independent political authority and no power to sign, accept, or ratify treaties**.
 
 Proposed treaties and international commitments are translated and explained in plain language by **Vatra 280**, then submitted to citizens for a direct vote through **e-Albania**. The citizen majority, recorded on the open-source blockchain, provides the sovereign mandate that delegates communicate internationally.
 
-**Delegates represent the decision of the citizens; they do not make that decision themselves.**
+**Delegates represent the decisions of citizens; they do not make those decisions themselves.**
+
+**National security and defense** remain operational through Albania's professional **Military General Staff, State Police, and Civil Emergency Directorates**, which execute constitutionally authorized security and emergency protocols without independent political power. Immediate defensive actions follow pre-approved procedures, while major sovereign decisions, including declarations of war and national mobilization, require direct citizen authorization through an emergency **3–6-hour Flash Vote on e-Albania**. The Vatra 280 Oversight Board provides technical verification of sensitive defense authorizations and emergency communications without replacing the sovereign authority of citizens.
 
 # 3. Implementation and Legal Status
 
@@ -96,21 +98,21 @@ The full 35-chapter Self-Representation Governance System is available in four e
 
 **English — Albania-Specific White Paper**
 
-[Read the English White Paper](Self_Representation_Albania_English.pdf)
+[Read the English White Paper](Self_Representation.new%281%29.pdf)
 
 **Albanian — Albania-Specific White Paper**
 
-[Read the Albanian White Paper](Self_Representation_Albania_Albanian.pdf)
+[Read the Albanian White Paper](Vete%CC%88Pe%CC%88rfaqe%CC%88sim.efundit%282%29.pdf)
 
 ### Universal — 35-Chapter Editions
 
 **English — Universal Governance Framework**
 
-[Read the Universal English Edition](Self_Representation_Universal_English.pdf)
+[Read the Universal English Edition](Universal%20Self-Representation%20New%20.pdf)
 
 **Albanian — Universal Governance Framework**
 
-[Read the Universal Albanian Edition](Self_Representation_Universal_Albanian.pdf)
+[Read the Universal Albanian Edition](Universal%20Vete%CC%88Pe%CC%88rfaqe%CC%88sim%281%29.pdf)
 
 These documents present the Albania-specific constitutional design and its universal adaptation in both languages. Earlier editions remain part of the repository's publication history.
 

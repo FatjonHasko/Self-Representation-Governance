@@ -98,21 +98,21 @@ The full 35-chapter Self-Representation Governance System is available in four e
 
 **English — Albania-Specific White Paper**
 
-[Read the English White Paper](Self_Representation.new%281%29.pdf)
+[Read the English White Paper](https://github.com/FatjonHasko/Self-Representation-Governance/blob/main/Self_Representation.new.pdf)
 
 **Albanian — Albania-Specific White Paper**
 
-[Read the Albanian White Paper](Vete%CC%88Pe%CC%88rfaqe%CC%88sim.efundit%282%29.pdf)
+[Read the Albanian White Paper](https://github.com/FatjonHasko/Self-Representation-Governance/blob/main/Vet%C3%ABP%C3%ABrfaq%C3%ABsim.efundit.pdf)
 
 ### Universal — 35-Chapter Editions
 
 **English — Universal Governance Framework**
 
-[Read the Universal English Edition](Universal%20Self-Representation%20New%20.pdf)
+[Read the Universal English Edition](https://github.com/FatjonHasko/Self-Representation-Governance/blob/main/Universal%20Self-Representation%20New%20.pdf)
 
 **Albanian — Universal Governance Framework**
 
-[Read the Universal Albanian Edition](Universal%20Vete%CC%88Pe%CC%88rfaqe%CC%88sim%281%29.pdf)
+[Read the Universal Albanian Edition](https://github.com/FatjonHasko/Self-Representation-Governance/blob/main/Universal%20Vet%C3%ABP%C3%ABrfaq%C3%ABsim.pdf)
 
 These documents present the Albania-specific constitutional design and its universal adaptation in both languages. Earlier editions remain part of the repository's publication history.
 

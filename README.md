@@ -102,7 +102,7 @@ The full 35-chapter Self-Representation Governance System is available in four e
 
 **Albanian — Albania-Specific White Paper**
 
-[Read the Albanian White Paper](https://github.com/FatjonHasko/Self-Representation-Governance/blob/main/Vet%C3%ABP%C3%ABrfaq%C3%ABsim.efundit.pdf)
+[Read the Albanian White Paper](https://github.com/FatjonHasko/Self-Representation-Governance/blob/main/Vet%C3%ABP%C3%ABrfaq%C3%ABsim.new.pdf)
 
 ### Universal — 35-Chapter Editions
 
